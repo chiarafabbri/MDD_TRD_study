@@ -14,3 +14,6 @@
 	# PRS_regress_liability_scale.R: R code to analyse polygenic risk scores (PRS) and convert observed Nagelkerke R2 to the liability scale
 
 	# SNP_h2_liability_scale.R: R code for conversion of observed heritability to the liability scale
+
+## heritability_est_GCTA_GCTB.sh:
+	# code used to estimate SNP-based heritability
